@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/FullScrWinTests3_7_Gl/FullScrWinTests3_7_Gl/Content/MgFont.spritefont</SourceFile>
+  <SourceTime>2021-03-26T01:51:24.7460507-04:00</SourceTime>
+  <DestFile>C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/FullScrWinTests3_7_Gl/FullScrWinTests3_7_Gl/Content/bin/DesktopGL/Content/MgFont.xnb</DestFile>
+  <DestTime>2021-03-26T01:51:34.2753407-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-10-15T15:28:30-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-10-15T15:28:30-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
